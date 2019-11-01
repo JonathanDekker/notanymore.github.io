@@ -2,14 +2,14 @@ body{
     background-image: url(https://jonathandekker.github.io/stonkywonky.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  color: #9c9c9c;
+  color: #583369;
 }
 h1{
-  color: #ba135e;
+  color: #583369;
 }
 li{
   background-color: white;
-  color: #9c9c9c
+  color: #583369
   list-style-type: none;
   border: 2px solid grey;
   margin-left: 10px;
