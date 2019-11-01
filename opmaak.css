@@ -1,9 +1,10 @@
 body{
-  background-color: black;
+    background-image: url(https://jonathandekker.github.io/stonkywonky.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: lightcoral;
 }
 h1{
-  background-color: black;
   color: #ba135e;
 }
 li{
